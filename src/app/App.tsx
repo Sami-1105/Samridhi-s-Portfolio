@@ -231,7 +231,7 @@ export default function Portfolio() {
                   Explore Portfolio
                 </button>
                 <a
-                  href="Samridhi Tyagi_cv.pdf"
+                  href="resume.pdf"
                   className="btn-shine px-8 py-4 rounded-2xl border border-cyan-400/30 bg-white/5 text-cyan-300 hover:bg-cyan-400 hover:text-black hover:shadow-[0_0_40px_rgba(34,211,238,0.4)] transition duration-300"
                 >
                   Download Resume
@@ -356,7 +356,7 @@ export default function Portfolio() {
               Hire Me
             </button>
             <a
-              href="Samridhi Tyagi_cv.pdf"
+              href="resume.pdf"
               className="btn-shine px-7 py-3 rounded-2xl border border-cyan-400/30 bg-white/5 text-cyan-300 hover:bg-cyan-400 hover:text-black hover:shadow-[0_0_35px_rgba(34,211,238,0.35)] transition duration-300"
             >
               Download Resume
